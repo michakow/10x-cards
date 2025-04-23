@@ -13,9 +13,8 @@
 
 ## Tech Stack
 
-- **Framework**: Astro 5
-- **Language**: TypeScript 5
-- **UI**: React 19, Tailwind CSS 4, Shadcn/ui
+- **Frontend**: Astro 5, React 19, TypeScript 5
+- **UI**: Tailwind CSS 4, Shadcn/ui
 - **Backend**: Supabase (PostgreSQL, Auth)
 - **AI Integration**: Openrouter.ai (LLM models)
 - **CI/CD**: GitHub Actions
