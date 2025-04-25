@@ -100,7 +100,6 @@ export interface Database {
         Insert: {
           created_at?: string;
           generation_duration: number;
-          id: string;
           source_text_hash: string;
           source_text_length: number;
           user_id: string;
